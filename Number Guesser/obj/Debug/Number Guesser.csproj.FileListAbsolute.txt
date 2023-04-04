@@ -1,0 +1,8 @@
+C:\Users\Anosh Khan\source\repos\Number Guesser\Number Guesser\bin\Debug\Number Guesser.exe.config
+C:\Users\Anosh Khan\source\repos\Number Guesser\Number Guesser\bin\Debug\Number Guesser.exe
+C:\Users\Anosh Khan\source\repos\Number Guesser\Number Guesser\bin\Debug\Number Guesser.pdb
+C:\Users\Anosh Khan\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.csproj.AssemblyReference.cache
+C:\Users\Anosh Khan\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anosh Khan\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.csproj.CoreCompileInputs.cache
+C:\Users\Anosh Khan\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.exe
+C:\Users\Anosh Khan\source\repos\Number Guesser\Number Guesser\obj\Debug\Number Guesser.pdb
